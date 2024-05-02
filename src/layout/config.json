@@ -1,0 +1,179 @@
+{
+  "menu": [
+    {
+      "title": "header.blog",
+      "path": "/blog"
+    }
+  ],
+  "mobile_menu": [
+    {
+      "name": "header.blog",
+      "href": "/blog"
+    }
+  ],
+
+  "social": [
+    { "name": "FaceBook", "color": "#1672E6", "href": "https://www.facebook.com/Expozy-108019807443777/" },
+    { "name": "Linkedin", "color": "#0962B7", "href": "https://www.linkedin.com/in/expozy-limited-623baa199/" },
+    { "name": "Telegram", "color": "#B7081B", "href": "https://t.me/expozy" }
+  ],
+  "company": {
+    "company_name": "Blog",
+    "address": "Bulgaria",
+    "email": "hello@expozy.com",
+    "phone": "+(001) 347 767 5512"
+  },
+  "footer_links": [
+    {
+      "headline": "footer.product",
+      "children": [
+        { "name": "footer.blog", "href": "/blog" }
+      ]
+    },
+    {
+      "headline": "footer.resources",
+      "children": [
+        { "name": "footer.blog", "href": "/blog" }
+      ]
+    }
+  ],
+  "languages": [
+    { "name": "English", "key": "en", "countryCode": "uk" },
+    { "name": "عربي", "key": "ar", "countryCode": "sa" }
+  ],
+  "currencies": [
+    {
+      "name": "united-states-dollar",
+      "prefix": "USD",
+      "symbol": "US$"
+    },
+
+    { "name": "euro", "prefix": "EUR", "symbol": "€" },
+
+    {
+      "name": "british-pound",
+      "prefix": "GBP",
+      "symbol": "£"
+    },
+
+    {
+      "name": "australian-dollar",
+      "prefix": "AUD",
+      "symbol": "A$"
+    },
+
+    {
+      "name": "canadian-dollar",
+      "prefix": "CAD",
+      "symbol": "CA$"
+    },
+
+    {
+      "name": "israeli-shekel",
+      "prefix": "ILS",
+      "symbol": "₪"
+    },
+
+    {
+      "name": "brazilian-real",
+      "prefix": "BRL",
+      "symbol": "R$"
+    },
+
+    {
+      "name": "hong-kong-dollar",
+      "prefix": "HKD",
+      "symbol": "HK$"
+    },
+
+    {
+      "name": "swedish-krona",
+      "prefix": "SEK",
+      "symbol": "SEK"
+    },
+
+    {
+      "name": "new-zealand-dollar",
+      "prefix": "NZD",
+      "symbol": "NZ$"
+    },
+
+    {
+      "name": "singapore-dollar",
+      "prefix": "SGD",
+      "symbol": "SGD"
+    },
+
+    {
+      "name": "swiss-franc",
+      "prefix": "CHF",
+      "symbol": "CHF"
+    },
+
+    {
+      "name": "south-african-rand",
+      "prefix": "ZAR",
+      "symbol": "ZAR"
+    },
+
+    {
+      "name": "chinese-renminbi-yuan",
+      "prefix": "CNY",
+      "symbol": "CN¥"
+    },
+
+    {
+      "name": "indian-rupee",
+      "prefix": "INR",
+      "symbol": "₹"
+    },
+
+    {
+      "name": "malaysian-ringgit",
+      "prefix": "MYR",
+      "symbol": "MYR"
+    },
+
+    {
+      "name": "mexican-peso",
+      "prefix": "MXN",
+      "symbol": "MX$"
+    },
+
+    {
+      "name": "pakistani-rupee",
+      "prefix": "PKR",
+      "symbol": "PKR"
+    },
+
+    {
+      "name": "philippine-peso",
+      "prefix": "PHP",
+      "symbol": "₱"
+    },
+
+    {
+      "name": "new-taiwan-dollar",
+      "prefix": "TWD",
+      "symbol": "NT$"
+    },
+
+    {
+      "name": "thai-baht",
+      "prefix": "THB",
+      "symbol": "THB"
+    },
+
+    {
+      "name": "turkish-new-lira",
+      "prefix": "TRY",
+      "symbol": "TRY"
+    },
+
+    {
+      "name": "united-arab-emirates-dirham",
+      "prefix": "AED",
+      "symbol": "AED"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "locales": ["en", "ar"],
+  "defaultLocale": "en",
+  "pages": {
+    "*": ["common"],
+    "/": ["home"],
+    "/products": ["products"],
+    "/checkout": ["checkout"],
+    "/blog": ["blog"],
+    "/blog/slug": ["blog"],
+    "/order": ["order"],
+    "/auth/login": ["login"],
+    "/auth/register": ["register"],
+    "/404": ["404"],
+    "/auth/reset-password": ["reset-password"],
+    "/auth/forget-password": ["forget-password", "common"],
+    "/profile": ["profile"]
+  }
+}
