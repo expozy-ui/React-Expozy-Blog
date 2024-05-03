@@ -38,11 +38,6 @@ Experience the difference with Expozy React Storefront and take your ecommerce p
 
 [Get Expozy API key now with Free Community plan](https://expozy.com/about) - Link to get API key
 
-
-## Get Started Today!
-
-Experience the difference with Expozy React Storefront and take your ecommerce platform to new heights. Get started today with our Free Community plan and unlock the full potential of your React-based web app.
-
 ## Contributing
 
 We welcome contributions from the community! Whether it's bug fixes, feature enhancements, or documentation improvements, your contributions help make Expozy React Storefront even better. Check out our contribution guidelines for more information.
