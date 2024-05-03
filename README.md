@@ -30,6 +30,14 @@ Welcome to Expozy React Storefront, your ultimate solution for building high-per
     - **ReactJS**: 18.2.0
     - **NextJS**: 13.1.6
 
+4. **Explore**: Dive into Expozy React Storefront documentation for detailed usage guides and examples.
+
+## Get Started Today!
+
+Experience the difference with Expozy React Storefront and take your ecommerce platform to new heights. Get started today with our Free Community plan and unlock the full potential of your React-based web app.
+
+[Get Expozy API key now with Free Community plan](https://expozy.com/about) - Link to get API key
+
 
 ## Get Started Today!
 
