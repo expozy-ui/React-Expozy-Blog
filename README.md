@@ -61,7 +61,7 @@ Stay updated with the latest news, releases, and announcements by following us o
 
 ## Support
 
-For any questions, issues, or feedback, feel free to reach out to our support team at info@studioweb.bg.
+For any questions, issues, or feedback, feel free to reach out to our support team at help@expozy.com.
 
 ---
 
